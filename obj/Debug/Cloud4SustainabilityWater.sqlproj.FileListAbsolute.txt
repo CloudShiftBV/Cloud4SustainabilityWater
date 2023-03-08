@@ -1,0 +1,10 @@
+c:\Users\Bryce\Desktop\Cloud4SustainabilityWater\bin\Debug\Cloud4SustainabilityWater.dacpac
+c:\Users\Bryce\Desktop\Cloud4SustainabilityWater\bin\Debug\Cloud4SustainabilityWater.dll
+c:\Users\Bryce\Desktop\Cloud4SustainabilityWater\bin\Debug\Cloud4SustainabilityWater.pdb
+c:\Users\Bryce\Desktop\Cloud4SustainabilityWater\obj\Debug\Cloud4SustainabilityWater.sqlproj.AssemblyReference.cache
+c:\Users\Bryce\Desktop\Cloud4SustainabilityWater\obj\Debug\Model.xml
+c:\Users\Bryce\Desktop\Cloud4SustainabilityWater\obj\Debug\refactor.xml
+c:\Users\Bryce\Desktop\Cloud4SustainabilityWater\obj\Debug\postdeploy.sql
+c:\Users\Bryce\Desktop\Cloud4SustainabilityWater\obj\Debug\predeploy.sql
+c:\Users\Bryce\Desktop\Cloud4SustainabilityWater\obj\Debug\Cloud4SustainabilityWater.dll
+c:\Users\Bryce\Desktop\Cloud4SustainabilityWater\obj\Debug\Cloud4SustainabilityWater.pdb

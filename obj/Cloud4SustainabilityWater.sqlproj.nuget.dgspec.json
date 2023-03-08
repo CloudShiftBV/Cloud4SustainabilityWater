@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Bryce\\Desktop\\Cloud4SustainabilityWater\\Cloud4SustainabilityWater.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Bryce\\Desktop\\Cloud4SustainabilityWater\\Cloud4SustainabilityWater.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Bryce\\Desktop\\Cloud4SustainabilityWater\\Cloud4SustainabilityWater.sqlproj",
+        "projectName": "Cloud4SustainabilityWater",
+        "projectPath": "c:\\Users\\Bryce\\Desktop\\Cloud4SustainabilityWater\\Cloud4SustainabilityWater.sqlproj",
+        "packagesPath": "C:\\Users\\Bryce\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Bryce\\Desktop\\Cloud4SustainabilityWater\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bryce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
